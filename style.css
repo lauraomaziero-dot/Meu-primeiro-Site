@@ -1,0 +1,63 @@
+body {padding: 30px;
+    background-color: rgba(243, 145, 194, 0.502);
+    text-align: center;
+}
+h1 {
+    color:lightsalmon;
+    text-align: center;
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h2 {
+    color:rgb(163, 67, 253);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}   
+button{
+    text-align: center;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    transition:1s;
+    background-color:rgb(255, 39, 169);
+    color:white
+}
+button:hover {
+    transform: scale(1,02);
+    background-color:orchid
+}
+img {
+    width: 400px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 15px;
+    filter: drop-shadow(5px 10px 10px rgb(249, 102, 183));
+}
+h3 {
+    color:cornflowerblue;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+p {
+    text-align: center;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 20px auto;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+section {
+    background-color: rgba(255, 254, 240, 0.377);
+    padding: 25px;
+    border-radius: 25px;
+    margin-top: 40px;
+}
+.verão {
+    background-color: rgba(251, 153, 205, 0.491);
+}
